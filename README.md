@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Shukla</h1>
 <h3 align="center">🎓 I'm currently pursuing my B.Tech in Information Technology from Jabalpur Engineering College. 🚀 Recently, I achieved the 1180th All India Rank in GATE 2024 in the domain of Data Science and Artificial Intelligence. 💡 I'm deeply interested in the fields of Machine Learning and Artificial Intelligence, constantly seeking to expand my knowledge and skills in these areas. 💻 I'm passionate about algorithms and data structures, and I'm actively practicing Data Structures and Algorithms in C++ programming language.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<!--<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">-->
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Django, Flask**
 
