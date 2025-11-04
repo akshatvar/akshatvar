@@ -3,15 +3,15 @@
 
 <!--<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">-->
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Django, Flask**
+- 🌱 I’m a **Azure Data Engineer**
 
-- 📫 How to reach me **akshatshukla075@gmail.com**
+- 📫 How to reach me **iamakshat.jec@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y1i04II8Nv7OsRFXulSltzUKTSglrSEc/view?usp=sharing](https://drive.google.com/file/d/1Y1i04II8Nv7OsRFXulSltzUKTSglrSEc/view?usp=sharing)
+- 📄 Know about my experiences[https://drive.google.com/file/d/1t8fqlsBiRJ4xCBwHDse_456g5YnCfeNx/view?usp=drive_link](https://drive.google.com/file/d/1t8fqlsBiRJ4xCBwHDse_456g5YnCfeNx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshatshukla24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatshukla24" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/akshatshukla24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatshukla24" height="30" width="40" /></a> -->
 <a href="https://kaggle.com/akshatshukla075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akshatshukla075" height="30" width="40" /></a>
 <a href="https://instagram.com/akshat27@sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat27@sh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/akshatshukla075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshatshukla075" height="30" width="40" /></a>
